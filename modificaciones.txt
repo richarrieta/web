@@ -1,0 +1,28 @@
+linea 511 de main.ccs
+	opacity: 0,7; por 	opacity: 0,1;
+
+
+ESCOLAR 0
+GYM 2
+VERANO 3
+INGENUO 4
+PUNTOS 4
+ISOTIPO 5
+TIKI 5
+
+BUHO 6
+ABSTRACTO 9
+RETAZOS 17
+CANDY 21
+FLORES 21
+GEOMETRICO 23
+LINEAS 24
+FRUTAS 32
+
+
+
+
+
+
+
+ 
